@@ -1,7 +1,7 @@
 {
   "name": "my-landing-page",
   "version": "0.1.1",
-  "homepage": "https://github.com/rsdrahat/my-landing-page",
+  "homepage": "https://rsdrahat.github.io/my-landing-page/",
   "private": false,
   "dependencies": {
     "react": "^16.8.4",
